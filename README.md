@@ -1,5 +1,5 @@
 # Welcome to my GitHub! 👋
-- 🌱 I’m currently pursuing a Master in Business Analytics and Big Data with a concentration in Advanced AI
+- 🌱 I just graduated from a Master in Business Analytics and Big Data with a concentration in Advanced AI
 - 🔭 I'm looking to collaborate in Data Analysis and Machine Learning.
 - 📫 Reach me in: emilio.jair@hotmail.com
 - 👯 Take a look to my most recent projects in my repository!
